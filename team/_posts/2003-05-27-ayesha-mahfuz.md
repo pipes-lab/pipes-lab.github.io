@@ -2,7 +2,7 @@
 layout: member
 title: Ayesha Mahfuz
 position: Undergraduate Student at UC-Berkeley
-image: /images/team/Mahfuz_A.jpg
+image: /images/team/Mahfuz_A.gif
 email: ayeshamahfuz@berkeley.edu
 ---
 
