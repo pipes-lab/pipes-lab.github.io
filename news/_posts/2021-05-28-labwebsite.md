@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lab Website Launches
-author: Andrew Vaughn
-date: 2021-05-28
+title: Pipes Website Launches
+author: Lenore Pipes
+date: 2024-09-05
 ---
 
-We are now launching the new website for the Nielsen Lab. Have a look around!
+We are now launching the new website for the Pipes Lab. Have a look around!
