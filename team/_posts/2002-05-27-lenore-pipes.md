@@ -6,7 +6,7 @@ image: /images/team/LenorePicture.jpeg
 twitter: lpipes
 scholar: BSRa28MAAAAJ
 github: lpipes
-
+website: https://pipes-lab.github.io
 ---
 
 My research interests include developing phylogeny based methods such as species assignment methods for metagenomics datasets.
