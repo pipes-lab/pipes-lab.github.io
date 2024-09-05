@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lenore Awarded NIH Grant
-author: Andrew Vaughn
+author: Lenore Pipes
 date: 2022-01-04
 ---
 
