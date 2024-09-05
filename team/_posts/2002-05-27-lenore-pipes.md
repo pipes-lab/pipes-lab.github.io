@@ -11,3 +11,5 @@ website: https://pipes-lab.github.io
 ---
 
 My research interests include developing phylogeny based methods such as species assignment methods for metagenomics datasets.
+
+Pronouns: she/her
