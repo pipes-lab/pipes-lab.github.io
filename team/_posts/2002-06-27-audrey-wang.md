@@ -2,7 +2,7 @@
 layout: member
 title: Li-Wen (Audrey) Wang
 position: PhD Candidate at UC-Berkeley
-image: /images/team/AudreyPicture.jpeg
+image: /images/team/AudreyPicture.jpg
 email: liwen.wang@berkeley.edu
 ---
 
