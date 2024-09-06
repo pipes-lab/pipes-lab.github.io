@@ -92,6 +92,13 @@
 						{% endif %}
 						<a class="mx-1" href="/team/">Team</a>
 						</li>
+						{% if page.categories.first == 'join' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/team/">Join</a>
+						</li>
 					</ul>
 				</div>
 			</div>
