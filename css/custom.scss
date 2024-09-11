@@ -399,3 +399,39 @@ blockquote {
     opacity: 0;
   }
 }
+
+.navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+    padding: 0 15px; /* Adjust this based on your design needs */
+}
+
+.navbar-nav .nav-link img {
+    height: 30px; /* Adjust this size to fit the design */
+    margin-right: 10px; /* Space between the image and the text */
+    vertical-align: middle;
+}
+
+.navbar-nav .nav-link a {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1.2rem; /* Adjust to match your design */
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link a:hover {
+    color: #b3995d;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+    height: 50px; /* Adjust as needed */
+    vertical-align: middle;
+}
+
