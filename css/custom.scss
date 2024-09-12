@@ -400,10 +400,18 @@ blockquote {
   }
 }
 
+.navbar-nav {
+    display: flex;
+    justify-content: space-between; /* Ensure spacing between items */
+    align-items: center; /* Align items vertically in the middle */
+    padding-left: 0;
+}
+
 .navbar-nav .nav-link {
     display: flex;
     align-items: center;
-    padding: 0 15px; /* Adjust this based on your design needs */
+    padding: 0 15px; /* Control the padding around each item */
+    white-space: nowrap; /* Prevent text wrapping */
 }
 
 .navbar-nav .nav-link img {
@@ -434,4 +442,3 @@ blockquote {
     height: 50px; /* Adjust as needed */
     vertical-align: middle;
 }
-
