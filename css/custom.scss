@@ -18,7 +18,7 @@ $navbar-brand-padding-y: 0.0rem;
 $navbar-light-color: $gray-light;
 $navbar-padding-y: 0.0rem;
 $nav-pills-link-active-color: #555;
-$nav-pills-link-active-bg: #b3995d;
+$nav-pills-link-active-bg: #000000;
 $nav-pills-border-radius: 0px;
 
 h1, .h1 { font-size: floor($font-size-base * 2.50); } /* ~34px */
@@ -103,7 +103,7 @@ b, strong {
 .navbar-brand {
 	font-size: 30px;
 	font-weight: 100;
-  color: #000000;
+  color: #b3995d;
 	/* Museo */
 }
 .navbar-nav {
