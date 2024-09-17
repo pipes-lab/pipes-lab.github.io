@@ -418,6 +418,7 @@ blockquote {
     height: 50px; /* Adjust this size to fit the design */
     margin-right: 1px; /* Space between the image and the text */
     vertical-align: middle;
+    transition: background-color 0.3s ease; /* Smooth transition for images */
 }
 
 .navbar-nav .nav-link a {
@@ -426,6 +427,12 @@ blockquote {
     font-size: 1.9rem; /* Adjust to match your design */
     color: #ffffff;
     text-decoration: none;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #000000; /* Change to black background */
+    color: #b3995d; /* Optional: change text color to white for contrast */
+    transition: background-color 0.3s ease; /* Smooth transition */
 }
 
 .navbar-nav .nav-link a:hover {
