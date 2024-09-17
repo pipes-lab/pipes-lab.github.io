@@ -416,7 +416,7 @@ blockquote {
     padding: 0 15px; /* Control the padding around each item */
     white-space: nowrap; /* Prevent text wrapping */
     position: relative;
-    background-color: #b3995d;
+    background-color: transparent;
 }
 
 .navbar-nav .nav-link.active {
@@ -467,10 +467,6 @@ blockquote {
 .navbar-nav .nav-link.active a {
 	background-color: #b3995d; /* UH gold */
 	color: #ffffff; /* White text for contrast */
-}
-
-.navbar-nav .nav-link.active {
-	background-color: #b3995d;
 }
 
 .navbar-nav .nav-link.active img {
