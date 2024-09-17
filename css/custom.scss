@@ -399,6 +399,10 @@ blockquote {
   }
 }
 
+.navbar {
+    background-color: #024731;
+}
+
 .navbar-nav {
     display: flex;
     justify-content: space-between; /* Ensure spacing between items */
@@ -412,6 +416,11 @@ blockquote {
     padding: 0 15px; /* Control the padding around each item */
     white-space: nowrap; /* Prevent text wrapping */
     position: relative;
+    background-color: #b3995d;
+}
+
+.navbar-nav .nav-link.active {
+    background-color: #b3995d;
 }
 
 .navbar-nav .nav-link img {
