@@ -449,3 +449,8 @@ blockquote {
     height: 50px; /* Adjust as needed */
     vertical-align: middle;
 }
+
+.navbar-nav .nav-link.active a {
+	background-color: #76A64D; /* Lighter green */
+	color: #ffffff; /* White text for contrast */
+}
