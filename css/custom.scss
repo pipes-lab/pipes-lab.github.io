@@ -423,12 +423,15 @@ blockquote {
 }
 
 .navbar-nav .nav-link a {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 1.9rem; /* Adjust to match your design */
-    color: #ffffff;
-    text-decoration: none;
-    background-color: transparent;
+    display: flex; /* Use flex to align the content */
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    height: 100%; /* Make sure it fills the parent li */
+    width: 100%; /* Make sure it fills the parent li */
+    padding: 10px 15px; /* Adjust padding to control the clickable area */
+    color: #ffffff; /* Text color */
+    text-decoration: none; /* Remove underline */
+    background-color: transparent; /* Default background */
 }
 
 .navbar-nav .nav-link:hover {
