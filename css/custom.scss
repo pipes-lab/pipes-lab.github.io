@@ -472,3 +472,7 @@ blockquote {
 .navbar-nav .nav-link.active {
 	background-color: #b3995d;
 }
+
+.navbar-nav .nav-link.active img {
+	filter: grayscale(0%); /* Remove grayscale */
+}
