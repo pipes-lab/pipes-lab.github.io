@@ -418,7 +418,12 @@ blockquote {
     height: 50px; /* Adjust this size to fit the design */
     margin-right: 1px; /* Space between the image and the text */
     vertical-align: middle;
-    transition: background-color 0.3s ease; /* Smooth transition for images */
+    transition: filter 0.3s ease; /* Smooth transition for images */
+    filter: grayscale(100%);
+}
+
+.navbar-nav .nav-link:hover img {
+    filter:grayscale(0%);
 }
 
 .navbar-nav .nav-link a {
