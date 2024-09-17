@@ -412,6 +412,7 @@ blockquote {
     align-items: center;
     padding: 0 15px; /* Control the padding around each item */
     white-space: nowrap; /* Prevent text wrapping */
+    position: relative;
 }
 
 .navbar-nav .nav-link img {
@@ -427,6 +428,7 @@ blockquote {
     font-size: 1.9rem; /* Adjust to match your design */
     color: #ffffff;
     text-decoration: none;
+    background-color: #b3995d;
 }
 
 .navbar-nav .nav-link:hover {
