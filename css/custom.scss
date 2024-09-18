@@ -351,6 +351,16 @@ blockquote {
 	padding-right: 0;
 }
 
+#footer .container-fluid {
+	display: flex;
+	justify-content: center;
+	padding: 10px 20px;
+}
+
+#footer .navbar-nav {
+	margin: 0;
+}
+
 .footernav {
 	@extend .note;
 	@extend .text-dark-gray;
