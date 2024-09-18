@@ -416,7 +416,7 @@ blockquote {
     padding: 0 15px; /* Control the padding around each item */
     white-space: nowrap; /* Prevent text wrapping */
     position: relative;
-    background-color: transparent;
+    background-color: #024731;
 }
 
 .navbar-nav .nav-link.active {
@@ -441,10 +441,11 @@ blockquote {
     font-size: 1.9rem;
     color: #ffffff;
     text-decoration: none;
+    background-color: transparent;
 }
 
 .navbar-nav .nav-link:hover {
-    background-color: #b3995d; /* Change to black background */
+    background-color: #000000; /* Change to black background */
     color: #b3995d; /* Optional: change text color to white for contrast */
     transition: background-color 0.3s ease; /* Smooth transition */
 }
