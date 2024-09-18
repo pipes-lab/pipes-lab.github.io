@@ -489,7 +489,8 @@ blockquote {
 
 .navbar-nav .nav-link.active a {
 	background-color: #b3995d; /* UH gold */
-	color: #000000; /* White text for contrast */
+	color: #000000; /* Black text for contrast */
+	font-weight: bold;
 }
 
 .navbar-nav .nav-link.active img {
