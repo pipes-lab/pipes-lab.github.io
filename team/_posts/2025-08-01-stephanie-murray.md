@@ -7,6 +7,6 @@ email: stephanie.murray@hawaii.edu
 website: https://stephaniemurray.org/
 ---
 
-Stephanie Murray is a researcher and PhD student in Computer Science at the University of Hawai‘i at Mānoa. Her focuses on machine learning, data analysis, and algorithm development, with research interests in large-scale biological datasets and phylogenetic methods.
+Stephanie Murray is a researcher and PhD student in Computer Science at the University of Hawai‘i at Mānoa. Her focus is on machine learning, data analysis, and algorithm development, with research interests in large-scale biological datasets and phylogenetic methods.
 
 Pronouns: she/her
